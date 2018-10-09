@@ -1,0 +1,11 @@
+{
+  "name": "vuepress-playground",
+  "version": "0.0.1",
+  "description": "vuepress playground",
+  "main": "index.js",
+  "author": "ne-peer <mileage0110@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
