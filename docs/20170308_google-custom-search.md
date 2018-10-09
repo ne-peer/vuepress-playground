@@ -14,4 +14,4 @@ https://developers.google.com/custom-search/json-api/v1/reference/cse/list?hl=ja
 [hatena](http://ryutamaki.hatenablog.com/entry/2014/01/18/171640)
 
 ### memo
-https://www.googleapis.com/customsearch/v1?key=AIzaSyC7NKKKp9fwj22hiattYmXSSkNT0CxpU44&cx=014287464022386080568:mes36s-d30s&q=iPhone&searchType=image
+https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx=014287464022386080568:mes36s-d30s&q=iPhone&searchType=image
